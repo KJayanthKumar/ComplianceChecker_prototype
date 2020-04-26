@@ -1,0 +1,28 @@
+C:\ProjectFolder\ComplianceChecker\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\ProjectFolder\ComplianceChecker\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\ProjectFolder\ComplianceChecker\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\ProjectFolder\ComplianceChecker\WindowsFormsApp1\obj\Debug\ComplianceChecker.csprojAssemblyReference.cache
+C:\ProjectFolder\ComplianceChecker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\ProjectFolder\ComplianceChecker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\ProjectFolder\ComplianceChecker\WindowsFormsApp1\obj\Debug\ComplianceChecker.csproj.GenerateResource.cache
+C:\ProjectFolder\ComplianceChecker\WindowsFormsApp1\obj\Debug\ComplianceChecker.csproj.CoreCompileInputs.cache
+C:\ProjectFolder\ComplianceChecker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\ProjectFolder\ComplianceChecker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\ProjectFolder\ComplianceChecker\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\ProjectFolder\ComplianceChecker\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\ProjectFolder\ComplianceChecker\WindowsFormsApp1\obj\Debug\ComplianceChecker.csproj.CopyComplete
+C:\ProjectFolder\ComplianceChecker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CRListDisplay.resources
+C:\Users\jk063102\OneDrive - Cerner Corporation\CSharp\ComplianceChecker\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\jk063102\OneDrive - Cerner Corporation\CSharp\ComplianceChecker\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\jk063102\OneDrive - Cerner Corporation\CSharp\ComplianceChecker\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\jk063102\OneDrive - Cerner Corporation\CSharp\ComplianceChecker\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jk063102\OneDrive - Cerner Corporation\CSharp\ComplianceChecker\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jk063102\OneDrive - Cerner Corporation\CSharp\ComplianceChecker\WindowsFormsApp1\obj\Debug\ComplianceChecker.csprojAssemblyReference.cache
+C:\Users\jk063102\OneDrive - Cerner Corporation\CSharp\ComplianceChecker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CRListDisplay.resources
+C:\Users\jk063102\OneDrive - Cerner Corporation\CSharp\ComplianceChecker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\jk063102\OneDrive - Cerner Corporation\CSharp\ComplianceChecker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\jk063102\OneDrive - Cerner Corporation\CSharp\ComplianceChecker\WindowsFormsApp1\obj\Debug\ComplianceChecker.csproj.GenerateResource.cache
+C:\Users\jk063102\OneDrive - Cerner Corporation\CSharp\ComplianceChecker\WindowsFormsApp1\obj\Debug\ComplianceChecker.csproj.CoreCompileInputs.cache
+C:\Users\jk063102\OneDrive - Cerner Corporation\CSharp\ComplianceChecker\WindowsFormsApp1\obj\Debug\ComplianceChecker.csproj.CopyComplete
+C:\Users\jk063102\OneDrive - Cerner Corporation\CSharp\ComplianceChecker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\jk063102\OneDrive - Cerner Corporation\CSharp\ComplianceChecker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

@@ -1,0 +1,10 @@
+C:\Users\jk063102\OneDrive - Cerner Corporation\CSharp\ComplianceChecker\WindowsFormsApp1\Compliance.cs;C:\Users\jk063102\OneDrive - Cerner Corporation\CSharp\ComplianceChecker\.klocwork\ComplianceChecker\cs.kwlp\ds\1\pd2t3h42.s4l;1;0;False;CD5F82E4952E4C6CB904B4C030A4A296A5DB91B4;False
+C:\Users\jk063102\OneDrive - Cerner Corporation\CSharp\ComplianceChecker\WindowsFormsApp1\CRIssues.cs;C:\Users\jk063102\OneDrive - Cerner Corporation\CSharp\ComplianceChecker\.klocwork\ComplianceChecker\cs.kwlp\ds\2\al004ujc.0hu;2;0;False;CA897A98D926A32C844CE8539036A8307045E1C4;False
+C:\Users\jk063102\OneDrive - Cerner Corporation\CSharp\ComplianceChecker\WindowsFormsApp1\Program.cs;C:\Users\jk063102\OneDrive - Cerner Corporation\CSharp\ComplianceChecker\.klocwork\ComplianceChecker\cs.kwlp\ds\7\gzjn4jjt.w34;7;0;False;F2FE4436373166B2642A6E00EAB471A621C8C6F0;False
+C:\Users\jk063102\OneDrive - Cerner Corporation\CSharp\ComplianceChecker\WindowsFormsApp1\CRListDisplay.cs;;8;0;False;10DD39F074E70E2738A3EC09823E0508F3959D64;False
+C:\Users\jk063102\OneDrive - Cerner Corporation\CSharp\ComplianceChecker\WindowsFormsApp1\CRListDisplay.Designer.cs;;9;0;False;B5ED6C5AE20491020914B25291A7D009F88AE015;False
+C:\Users\jk063102\OneDrive - Cerner Corporation\CSharp\ComplianceChecker\WindowsFormsApp1\LoginForm.cs;;10;0;False;508EBA880CDF4B430177B7C94696D3D001EFEFB7;False
+C:\Users\jk063102\OneDrive - Cerner Corporation\CSharp\ComplianceChecker\WindowsFormsApp1\LoginForm.Designer.cs;;11;0;False;7BDADC39FA9D3F0556A686F0EBBBAC5394826558;False
+C:\Users\jk063102\OneDrive - Cerner Corporation\CSharp\ComplianceChecker\WindowsFormsApp1\Properties\AssemblyInfo.cs;;12;0;False;C80F1C39D4C7B04482A57EF25B1904D09DB7724E;False
+C:\Users\jk063102\OneDrive - Cerner Corporation\CSharp\ComplianceChecker\WindowsFormsApp1\Properties\Resources.Designer.cs;;13;0;False;A25A3D102D33F2F1A5C622F321741ED4E6F15E25;False
+C:\Users\jk063102\OneDrive - Cerner Corporation\CSharp\ComplianceChecker\WindowsFormsApp1\Properties\Settings.Designer.cs;;14;0;False;50B25F9B335252DD055C778B3586F89211BEDC9E;False
