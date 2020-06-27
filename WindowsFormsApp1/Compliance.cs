@@ -33,6 +33,8 @@ namespace WindowsFormsApp1
             public string Designt_ClosureDate { get; set; }
             public string CodeLink { get; set; }
             public string Code_ClosureDate { get; set; }
+            public string TestLink { get; set; }
+            public string Test_ClosureDate { get; set; }
         }
 
         public class Rootobject
@@ -73,7 +75,7 @@ namespace WindowsFormsApp1
             public object customfield_17701 { get; set; }
             public object customfield_19207 { get; set; }
             public object customfield_10500 { get; set; }
-            public DateTime lastViewed { get; set; }
+            public DateTime? lastViewed { get; set; }
             public Customfield_18900 customfield_18900 { get; set; }
             public object customfield_18901 { get; set; }
             public string[] labels { get; set; }
@@ -93,7 +95,7 @@ namespace WindowsFormsApp1
             public string[] customfield_10600 { get; set; }
             public object customfield_18200 { get; set; }
             public Subtask[] subtasks { get; set; }
-            public DateTime customfield_14400 { get; set; }
+            public DateTime? customfield_14400 { get; set; }
             public Reporter reporter { get; set; }
             public object customfield_12102 { get; set; }
             public Progress progress { get; set; }
@@ -101,7 +103,7 @@ namespace WindowsFormsApp1
             public Issuetype issuetype { get; set; }
             public object customfield_19400 { get; set; }
             public object customfield_19401 { get; set; }
-            public DateTime customfield_17102 { get; set; }
+            public DateTime? customfield_17102 { get; set; }
             public DateTime? customfield_17101 { get; set; }
             public Project project { get; set; }
             public object customfield_11000 { get; set; }
@@ -109,7 +111,7 @@ namespace WindowsFormsApp1
             public object customfield_10701 { get; set; }
             public Customfield_10703 customfield_10703 { get; set; }
             public Customfield_10704 customfield_10704 { get; set; }
-            public DateTime resolutiondate { get; set; }
+            public DateTime? resolutiondate { get; set; }
             public Watches watches { get; set; }
             public object customfield_18301 { get; set; }
             public object customfield_18302 { get; set; }
@@ -119,7 +121,7 @@ namespace WindowsFormsApp1
             public Customfield_14501[] customfield_14501 { get; set; }
             public string customfield_10016 { get; set; }
             public object customfield_11900 { get; set; }
-            public DateTime updated { get; set; }
+            public DateTime? updated { get; set; }
             public object customfield_19500 { get; set; }
             public object customfield_17201 { get; set; }
             public object customfield_17200 { get; set; }
@@ -159,7 +161,7 @@ namespace WindowsFormsApp1
             public object duedate { get; set; }
             public Customfield_17302[] customfield_17302 { get; set; }
             public Fixversion[] fixVersions { get; set; }
-            public DateTime customfield_11200 { get; set; }
+            public DateTime? customfield_11200 { get; set; }
             public object customfield_10901 { get; set; }
             public object customfield_16321 { get; set; }
             public object customfield_16200 { get; set; }
@@ -220,13 +222,13 @@ namespace WindowsFormsApp1
             public object customfield_14915 { get; set; }
             public object customfield_14916 { get; set; }
             public object[] customfield_19002 { get; set; }
-            public int timespent { get; set; }
+            public int? timespent { get; set; }
             public object customfield_19802 { get; set; }
             public object customfield_15200 { get; set; }
             public object customfield_17500 { get; set; }
             public object customfield_19804 { get; set; }
             public object customfield_19805 { get; set; }
-            public int aggregatetimespent { get; set; }
+            public int? aggregatetimespent { get; set; }
             public object customfield_14910 { get; set; }
             public object customfield_10311 { get; set; }
             public object customfield_19800 { get; set; }
@@ -241,7 +243,7 @@ namespace WindowsFormsApp1
             public object customfield_14908 { get; set; }
             public object customfield_14909 { get; set; }
             public object customfield_20100 { get; set; }
-            public DateTime created { get; set; }
+            public DateTime? created { get; set; }
             public object customfield_17612 { get; set; }
             public string customfield_16401 { get; set; }
             public object customfield_17616 { get; set; }

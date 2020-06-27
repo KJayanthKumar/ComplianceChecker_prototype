@@ -24,7 +24,7 @@ namespace WindowsFormsApp1
            // dt.Columns.Add("NO", typeof(string));
             dt.Columns.Add("CR_NO", typeof(string));
             dt.Columns.Add("Solution", typeof(string));
-            dt.Columns.Add("CHIA_NO", typeof(string));
+            // dt.Columns.Add("CHIA_NO", typeof(string));
             dt.Columns.Add("ST_Feature", typeof(string));
             dt.Columns.Add("ENG18_Feature", typeof(string));
             dt.Columns.Add("JForms", typeof(string));
@@ -54,6 +54,8 @@ namespace WindowsFormsApp1
                 dr["Designt_ClosureDate"] = issue.Designt_ClosureDate;
                 dr["CodeLink"] = issue.CodeLink;
                 dr["Code_ClosureDate"] = issue.Code_ClosureDate;
+                dr["TestCaseLink"] = issue.TestLink;
+                dr["TestCase_ClosureDate"] = issue.Test_ClosureDate;
                 dt.Rows.Add(dr);
             }
             dataGridView1.DataSource = dt;

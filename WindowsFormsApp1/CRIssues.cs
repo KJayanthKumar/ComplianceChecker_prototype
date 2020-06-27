@@ -45,12 +45,38 @@ namespace WindowsFormsApp1
                 Crsobj.ENG18_Feature = GetFeatureOf(Crsobj.CR_NO, "2018.01_SVC_ENG");
                 Crsobj.JForms = GetJFormOf(Crsobj.CR_NO);
                 GetReviewsOf(Crsobj.CR_NO, ref Reviews);
-                Crsobj.RequirementLink = Reviews["RR_ID"] == null ? "NA" : Reviews["RR_ID"];
-                Crsobj.DesignLink = Reviews["DR_ID"] == null ? "NA" : Reviews["DR_ID"];
-                Crsobj.CodeLink = Reviews["CR_ID"] == null ? "NA" : Reviews["CR_ID"];
-                Crsobj.Requirement_ClosureDate = Reviews["RR_CD"] == null ? "NA" : Reviews["RR_CD"];
-                Crsobj.Designt_ClosureDate = Reviews["DR_CD"] == null ? "NA" : Reviews["DR_CD"];
-                Crsobj.Code_ClosureDate = Reviews["CR_CD"] == null ? "NA" : Reviews["CR_CD"];
+                if(Reviews.ContainsKey("RR_ID"))
+                {
+                    Crsobj.RequirementLink = Reviews["RR_ID"] == null ? "NA" : Reviews["RR_ID"];
+                }
+                if(Reviews.ContainsKey("DR_ID"))
+                {
+                    Crsobj.DesignLink = Reviews["DR_ID"] == null ? "NA" : Reviews["DR_ID"];
+                }     
+                if(Reviews.ContainsKey("CR_ID"))
+                {
+                    Crsobj.CodeLink = Reviews["CR_ID"];
+                }
+                if (Reviews.ContainsKey("TR_ID"))
+                {
+                    Crsobj.TestLink = Reviews["TR_ID"];
+                }
+                if (Reviews.ContainsKey("RR_CD"))
+                {
+                    Crsobj.Requirement_ClosureDate = Reviews["RR_CD"] == null ? "NA" : Reviews["RR_CD"];
+                }
+                if (Reviews.ContainsKey("DR_CD"))
+                {
+                    Crsobj.Designt_ClosureDate = Reviews["DR_CD"] == null ? "NA" : Reviews["DR_CD"];
+                }
+                if (Reviews.ContainsKey("CR_CD"))
+                {
+                    Crsobj.Code_ClosureDate = Reviews["CR_CD"];
+                }
+                if(Reviews.ContainsKey("TR_CD"))
+                {
+                    Crsobj.Test_ClosureDate = Reviews["TR_CD"];
+                }
                 listIssues.Add(Crsobj);
             }
             Crs = new CRDetails();
@@ -196,7 +222,7 @@ namespace WindowsFormsApp1
                 }
                 if (Reviewname.IndexOf("Test case", StringComparison.OrdinalIgnoreCase) >= 0)
                 {
-                    Reviews.Add("TR_CD", Reviewname);
+                    Reviews.Add("TR_CD", date);
                     Reviews.Add("TR_ID", id);
                 }
             }

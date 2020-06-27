@@ -114,6 +114,7 @@ namespace WindowsFormsApp1
             this.dateTimePicker1.Name = "dateTimePicker1";
             this.dateTimePicker1.Size = new System.Drawing.Size(200, 20);
             this.dateTimePicker1.TabIndex = 2;
+            this.dateTimePicker1.Value = new DateTime(2020, 01, 11);
             // 
             // dateTimePicker2
             // 
@@ -121,6 +122,7 @@ namespace WindowsFormsApp1
             this.dateTimePicker2.Name = "dateTimePicker2";
             this.dateTimePicker2.Size = new System.Drawing.Size(200, 20);
             this.dateTimePicker2.TabIndex = 3;
+            this.dateTimePicker2.Value = new DateTime(2020, 02, 20);
             // 
             // SubmitBtn
             // 
